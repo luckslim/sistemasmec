@@ -1,0 +1,59 @@
+body{
+    background-color:rgba(7, 47, 133, 0.925)
+}
+h1{
+
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgba(7, 47, 133, 0.925);
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(7, 47, 133, 0.925);
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;color: rgb(16, 17, 16);
+    width: 420px;
+    margin: 130px auto 0px auto;
+    box-shadow: 4px 5px 5px rgb(6, 25, 53);
+   
+}
+
+input{
+    margin-left: 2.5%;
+    display: block;
+    height: 25px;
+    width: 400px;
+    margin: 2,5px;
+    border-radius: 10px;
+    border:1px solid black
+}
+.botao{
+    background-color: royalblue;
+    color: seashell;
+    margin-left: 28%;
+    display: block;
+    height: 30px;
+    width: 200px;
+    margin: 2,5px;
+    border-radius: 1px;
+    border:1px solid black
+
+}
+a{
+    text-decoration: none;
+    color:rgb(25, 88, 31);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+
+}
+nav{
+    color: aliceblue;
+    font-size: 25px;
+   
+}
